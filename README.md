@@ -74,4 +74,4 @@ Result Code: E_INVALIDARG (0x80070057)"
 
 28. Self-discovered VirtualBox Snapshots, to skip the long loading time for th Ambari dashboard to load all processes
 
-29. Pausing Hadoop to Learn Kafka! https://githubcom/johnobla/kafka
+29. Pausing Hadoop to Learn Kafka! https://github.com/johnobla/kafka
